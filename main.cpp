@@ -11,6 +11,7 @@ int main() {
     double rad35 = 35.0 * M_PI / 180.0;
     b = x * sin(x * t * t) * cos(2.0 * t) - 1.0 + cos(rad35);
     printf("\nРезультат:\n");
+    printf("Calculation completed successfully!\n");
     printf("b = %.6f\n\n", b);
     return 0;
 }
