@@ -15,3 +15,5 @@ int main() {
     printf("b = %.6f\n\n", b);
     return 0;
 }
+
+// Lab 10: change from clone A
