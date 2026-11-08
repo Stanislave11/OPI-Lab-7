@@ -21,3 +21,5 @@ int main() {
 // Lab 10: new feature branch
 
 // Lab 10: update from clone B
+
+// Lab 10: tagged release
